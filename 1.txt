@@ -1,1 +1,6 @@
 GEEK UNIVERSity
+
+
+git revert <commit id>
+
+um novo commit desfazendo o commit passado
